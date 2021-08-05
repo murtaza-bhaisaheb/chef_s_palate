@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367711831718",
+    "project_id": "meals-3dc1e",
+    "storage_bucket": "meals-3dc1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367711831718:android:2cbeb9561b536f8d601667",
+        "android_client_info": {
+          "package_name": "com.murtaza.meals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367711831718-0vhm4jcn1s30ipaqqsclbdtehi5m2vq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhmqBeOw6ugDcJiPgvPbpbGaLqPWoQoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367711831718-0vhm4jcn1s30ipaqqsclbdtehi5m2vq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
